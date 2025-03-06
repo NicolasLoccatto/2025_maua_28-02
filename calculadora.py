@@ -1,5 +1,8 @@
-def somar(a, b, c):
-    return a + b + c
+def somar(a, b):
+    return a + b
 
 def subtrair(a, b):
     return a - b
+
+def multiplicar(a, b):
+    return a * b
